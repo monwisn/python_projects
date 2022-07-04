@@ -1,5 +1,8 @@
 # convert images from color to grayscale
 # python convert image to grayscale.py --input color --output blackwhite
+# create two folders: "color" and "grayscale"
+# add photos in color to the "color" folder
+
 
 from PIL import Image
 from glob import glob
