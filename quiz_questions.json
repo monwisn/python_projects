@@ -1,0 +1,26 @@
+[
+  {
+    "question":"What year was Python released?",
+    "a": 1986,
+    "b": 1991,
+    "c": 1995,
+    "d": 2000,
+    "correct_answer": "b"
+  },
+  {
+    "question":"Which planet is Earth from the Sun in the solar system?",
+    "a": 1,
+    "b": 2,
+    "c": 3,
+    "d": 4,
+    "correct_answer": "c"
+  },
+  {
+    "question":"Who was the first actor to play James Bond on film?",
+    "a": "Sean Connery",
+    "b": "Roger Moore",
+    "c": "Pierce Brosnan",
+    "d": "Daniel Craig",
+    "correct_answer": "a"
+  }
+]
