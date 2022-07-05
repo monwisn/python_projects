@@ -1,4 +1,3 @@
-
 # HTTP-API (generate your avatar based on entered name/string)
 
 import requests
