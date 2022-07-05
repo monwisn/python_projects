@@ -35,7 +35,7 @@ def start_game():
             print(f'\nThe remaining tries: {tries}')
 
             if random_word == display_word:
-                print(f'Congrats {player_name}! You win. Your guessed word is: {"".join(display_word)}.')
+                print(f'Congrats {player_name}! You won. Your guessed word is: {"".join(display_word)}.')
 
             if tries == 0:
                 print("You've lost!")
