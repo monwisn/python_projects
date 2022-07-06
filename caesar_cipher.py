@@ -56,7 +56,7 @@ def encrypt(word, shift):
     return key_val
 
 
-encrypted = encrypt('something', 3)  # zwraca nam klucz szyfrowania, czyli slownik gdzie przy przesunieciu o 3 a to d, b to e, c to f itd
+encrypted = encrypt('something', 3)
 print(encrypted)
 
 
