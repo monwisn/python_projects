@@ -1,6 +1,6 @@
-# # Program to encrypt passwords, words, with an offset
+# Program to encrypt passwords, words, with an offset
 
-key_letter = 'abcdefghijklmnoprst'
+key_letter = 'abcdefghijklmnopqrstuvwxyz'
 
 
 def encrypt(letter, shift):
