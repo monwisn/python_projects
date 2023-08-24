@@ -4,7 +4,7 @@ import calendar
 
 
 # match case only if you have python 3.10 or upper
-def translate_to_spanish(day_name):
+def translate_to_spanish(day_name: str):
     match day_name:
         case 'Monday':
             return 'Lunes'
