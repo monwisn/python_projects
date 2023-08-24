@@ -3,7 +3,7 @@
 key_letter = 'abcdefghijklmnopqrstuvwxyz'
 
 
-def encrypt(letter, shift):
+def encrypt(letter: str, shift: int):
     new_index = key_letter.index(letter) + shift
     return key_letter[new_index]
 
