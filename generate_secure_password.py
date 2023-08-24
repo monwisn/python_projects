@@ -6,7 +6,7 @@ from string import punctuation
 from string import ascii_letters
 
 
-password = ''
+password: str = ''
 symbol = ascii_letters + digits + punctuation
 secure_random = random.SystemRandom()
 
