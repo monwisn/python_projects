@@ -14,8 +14,8 @@ import sys
 import random
 import string
 
-password = []
-characters_left = -1
+password: list = []
+characters_left: int = -1
 
 
 def update_characters_left(number_of_characters):
